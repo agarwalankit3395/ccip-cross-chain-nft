@@ -14,5 +14,19 @@ docs/
 # Dotenv file
 .env
 
+<<<<<<< Updated upstream
 # Node modules
 node_modules/
+=======
+contracts/.deps/npm/@openzeppelin/contracts/token/ERC721/IERC721.sol
+/contracts/.deps
+/contracts/.deploys
+/contracts/artifacts
+/contracts/utils
+/contracts/.states
+>>>>>>> Stashed changes
+/artifacts
+/typechain-types
+/typechain-types
+/typechain-types
+/typechain-types
